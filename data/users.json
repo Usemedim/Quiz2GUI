@@ -1,0 +1,65 @@
+[
+    {
+        "name": "aa",
+        "email": "aa",
+        "history": [
+            {
+                "date": "2024-11-16 08:12:41",
+                "results": {
+                    "B\u00f6l\u00fcm 1 - Python": {
+                        "correct": 2,
+                        "total": 5,
+                        "score": 16.333333333333332
+                    },
+                    "B\u00f6l\u00fcm 2 - HTML": {
+                        "correct": 3,
+                        "total": 5,
+                        "score": 25.0
+                    },
+                    "B\u00f6l\u00fcm 3 - JavaScript": {
+                        "correct": 3,
+                        "total": 5,
+                        "score": 24.333333333333332
+                    },
+                    "B\u00f6l\u00fcm 4 - SQL": {
+                        "correct": 3,
+                        "total": 5,
+                        "score": 24.333333333333332
+                    }
+                },
+                "overall_percentage": 55.00000000000001
+            },
+            {
+                "date": "2024-11-16 08:32:50",
+                "results": {
+                    "B\u00f6l\u00fcm 1 - Python": {
+                        "correct": 4,
+                        "total": 5,
+                        "score": 36.0
+                    },
+                    "B\u00f6l\u00fcm 2 - HTML": {
+                        "correct": 5,
+                        "total": 5,
+                        "score": 34.0
+                    },
+                    "B\u00f6l\u00fcm 3 - JavaScript": {
+                        "correct": 4,
+                        "total": 5,
+                        "score": 31.0
+                    },
+                    "B\u00f6l\u00fcm 4 - SQL": {
+                        "correct": 4,
+                        "total": 5,
+                        "score": 28.333333333333332
+                    }
+                },
+                "overall_percentage": 85.0
+            }
+        ]
+    },
+    {
+        "name": "b",
+        "email": "b",
+        "history": []
+    }
+]
